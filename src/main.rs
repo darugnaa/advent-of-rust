@@ -12,4 +12,6 @@ fn main() {
     two::part2();
     three::part1();
     three::part2();
+    four::part1();
+    four::part2();
 }
