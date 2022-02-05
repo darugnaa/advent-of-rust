@@ -6,6 +6,7 @@ mod four;
 mod five;
 mod six;
 mod seven;
+mod eight;
 
 fn main() {
     one::part1();
@@ -22,4 +23,6 @@ fn main() {
     six::part2();
     seven::part1();
     seven::part2();
+    eight::part1();
+    eight::part2();
 }
